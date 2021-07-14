@@ -32,7 +32,7 @@ public class TestController {
     private final RandomFood randomFood;
     private final TimeService timerService;
     private final LottoService lottoService;
-
+// test
     // 생성자 : CONSTRUCTOR
 //    public TestController(FoodCalculatorService foodCalculatorService) {
 //        this.foodCalculatorService = foodCalculatorService;
